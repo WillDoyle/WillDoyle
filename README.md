@@ -5,7 +5,7 @@ Frontend Developer and Designer
 
 A passionate web developer and designer with a focus on enhancing my skills through creative and challenging programming problems. I thrive on collaborating with interesting people and projects, creating intuitive and visually appealing user interfaces.
 
-* 🌍  I'm based in Brisbane
+* 🌍  I'm based in Brisbane, Australia
 * 🖥️  See my portfolio at [willdoyle.dev](http://willdoyle.dev)
 * ✉️  You can contact me at [williamdoyledesign@outlook.com](mailto:williamdoyledesign@outlook.com)
 * 🧠  I'm learning DSA & Next.js
