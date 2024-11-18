@@ -2,7 +2,7 @@
 
 Frontend Developer and Designer
 -------------------------------
-
+## Currently a Software Developer Intern @ [Chronosoft](https://www.chronosoft.com.au/)
 A passionate web developer and designer with a focus on enhancing my skills through creative and challenging programming problems. I thrive on collaborating with interesting people and projects, creating intuitive and visually appealing user interfaces.
 
 * 🌍  Brisbane, Australia
